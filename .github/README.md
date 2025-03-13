@@ -62,7 +62,7 @@
 - Install pip by :
 `sudo pip3 install -U pip`
 - Clone the repository by :
-`git clone https://github.com/FanntasticSukhi/GarudRobot && cd GarudRobot`
+`git clone https://github.com/FantasticSukhi/GarudRobot && cd GarudRobot`
 - Install/Upgrade setuptools by :
 `pip3 install --upgrade pip setuptools`
 - Install requirements by :
